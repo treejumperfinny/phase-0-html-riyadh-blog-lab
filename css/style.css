@@ -26,11 +26,11 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #FFA500;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
@@ -43,6 +43,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: plum;
 }
 
 img {
@@ -52,11 +53,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  color: #800020;
+  font-size: 1.2em;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
-  color: black;
+  color: #800020;
   text-decoration: none;
 }
 
